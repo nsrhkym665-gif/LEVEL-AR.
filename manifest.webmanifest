@@ -1,0 +1,17 @@
+{
+  "name": "ROCK NEWS AR — Gaming Hub",
+  "short_name": "ROCK NEWS AR",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090b10",
+  "theme_color": "#090b10",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
