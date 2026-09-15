@@ -1046,7 +1046,7 @@ window.GAMING_DATA = {
     },
     {
       "id": "g117",
-      "title": "Ace Combat 8: Wings of Theve – Annihilation",
+      "title": "Ace Combat 8 – Annihilation",
       "studio": "Bandai Namco",
       "platforms": "PC / PS5 / Xbox",
       "company": "Bandai",
@@ -1830,7 +1830,7 @@ window.GAMING_DATA = {
     },
     {
       "id": "n3",
-      "game": "Ace Combat 8: Wings of Theve – Annihilation",
+      "game": "Ace Combat 8 – Annihilation",
       "company": "Bandai Namco",
       "title": "Ace Combat 8: الكشف عن طور Annihilation Battle وتريلر القصة",
       "date": "2026-09-14",
@@ -1996,7 +1996,7 @@ window.GAMING_DATA = {
     },
     {
       "id": "n16",
-      "game": "Ace Combat 8: Wings of Theve",
+      "game": "Ace Combat 8",
       "company": "Bandai Namco",
       "title": "الكشف عن طور Annihilation Battle وتريلر القصة",
       "date": "2026-09-14",
